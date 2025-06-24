@@ -30,7 +30,8 @@ router.get("/", async (req, res) =>  {
             });
         }
         return res.status(200).json({
-            tabel: "Cart",
+            length: result.rows.length,
+            message: "Success - All cart items (PostgreSQL)",
             data: result.rows,
         });
     } catch (err) {

@@ -39,7 +39,8 @@ router.get("/all", async (req, res) => {
             });
         }
         return res.status(200).json({
-            table: "Orders",
+            length: result.rows.length,
+            message: "Success - All orders (PostgreSQL)",
             data: result.rows,
         });
     } catch (err) {

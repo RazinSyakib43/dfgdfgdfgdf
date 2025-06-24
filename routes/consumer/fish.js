@@ -24,7 +24,8 @@ router.get("/all", async (req, res, next) => {
             });
         }
         return res.status(200).json({
-            tabel: "Ikan",
+            length: result.rows.length,
+            message: "Success - All fish (PostgreSQL)",
             data: result.rows,
         });
     }
@@ -64,7 +65,8 @@ router.get("/cari/", async (req, res, next) => {
             });
         }
         return res.status(200).json({
-            tabel: "Ikan",
+            length: result.rows.length,
+            message: "Success - Search fish (PostgreSQL)",
             data: result.rows,
         });
     }
@@ -108,7 +110,8 @@ router.get("/detail/:id", async (req, res, next) => {
             });
         }
         return res.status(200).json({
-            tabel: "Ikan",
+            length: result.rows.length,
+            message: `Success - Detail fish ${fishId} (PostgreSQL)`,
             data: result.rows[0],
         });
     }
