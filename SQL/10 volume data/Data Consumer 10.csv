@@ -1,0 +1,11 @@
+id,name,email,password,role,phone_number,address
+1,Asmianto Marbun,siraitwirda@example.org,$2b$10$l59QuuUNdpH4xaN2lYfbsupbFTiRpwxd9bZHFtcu.f5FZNND0wSm.,consumer,+62 (547) 724 0426,"Gg. Rajiman No. 334, Kota Administrasi Jakarta Pusat, BB 71298"
+2,Kani Winarno,asafitri@example.net,$2b$10$/d/is4aA3TvvkqpbL6A/pOFKeo3OUAduCShYqPyp.zlUhNpejSuYS,consumer,+62-574-461-0499,"Gang Astana Anyar No. 47, Cimahi, Gorontalo 60093"
+3,KH. Jail Prasetya,qori23@example.org,$2b$10$16Q4DwuIkzNbH4QYG77EFerVTfWv6VtekEo3ScteVHt2bqwriJeTa,consumer,+62-719-484-2907,"Jl. M.T Haryono No. 21, Metro, KR 04224"
+4,Rina Marbun,damupangestu@example.com,$2b$10$Qc83zX6Pf9D94QFs2gFIe..bjM5aiXKHX5G6pl0X7mMZUFmhSzLwu,consumer,+62 (03) 227 2694,"Jl. Gegerkalong Hilir No. 8, Salatiga, SB 01326"
+5,"Eman Kuswoyo, M.Kom.",tiaramanullang@example.net,$2b$10$xz1isYCY2Z0kJHt4xDaeTOzhe1AabvGPNWYnplCtdvaWJcwCTprXe,consumer,(0874) 903-6994,"Jl. Medokan Ayu No. 86, Jambi, SU 40015"
+6,"Janet Nasyidah, S.I.Kom",jayadi60@example.com,$2b$10$j5cdz05X.GlA6JNyQe1iZ.Hefe6nhrVwPl.mQCLm71L0VOoR8Z7im,consumer,+62-022-061-8214,"Jalan Abdul Muis No. 79, Mojokerto, SU 86213"
+7,R.A. Usyi Oktaviani,wadisalahudin@example.com,$2b$10$rAzz6e6gWxjkqIp72mnMH.9V6l6A87dDnYKnNCZkimVQT.7EdfJde,consumer,(0624) 946-2646,"Gang R.E Martadinata No. 15, Bogor, DKI Jakarta 26913"
+8,drg. Rahmi Usamah,laswihartati@example.com,$2b$10$/DIDImV121kfq0z0vPWNC.OYUX.FeN6Z/egQ9JvYTkFGOYTzb/.lq,consumer,086 171 2418,"Gang Cempaka No. 7, Payakumbuh, SS 24590"
+9,"Ellis Nuraini, S.Gz",bagas79@example.net,$2b$10$IJR.ctD3EtWOMxh/SLYh7On4CcKWz.zr1LaGGdmPqyysV3BsE.ZJy,consumer,+62-0457-479-1049,"Jl. Bangka Raya No. 477, Batam, PB 98910"
+10,Hj. Tania Hutasoit,galihfirmansyah@example.com,$2b$10$iCq9a5GKwKQIekAwrFJs0Ou/HlvdPiNlSTONZfbutV.2KS2JogYbS,consumer,(0999) 356 8818,"Jalan Gegerkalong Hilir No. 793, Palopo, Jawa Barat 39660"
